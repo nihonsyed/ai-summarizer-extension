@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+#summarizeBtn {
+  padding: 8px 12px;
+  font-size: 14px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#summary {
+  margin-top: 15px;
+  white-space: pre-wrap;
+  font-size: 14px;
+}
